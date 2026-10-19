@@ -2,6 +2,13 @@
 
 Mini-ERP con interfaz de **app de supermercado para teléfono y web** (tema verde, responsive): catálogo, carrito, clientes y dashboard, con roles de administrador (admin) y cajero.
 Proyecto innovador · INDEL 3.° Desarrollo de Software "B" · 2026.
+Instituto nacional canton lourdes
+Integrantes                             N°L          Auto
+María José Escobar Guevara                #5          10
+Merari Estefany Escobar Guevara           #6          10
+Adriana Abigail Pineda Montoya            #10         10
+Marvin Samuel Campos López                #15         10
+Diego Alejandro López Cruz                #25         10
 
 ## Cómo correrlo
 
